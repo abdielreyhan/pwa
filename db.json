@@ -1,5 +1,5 @@
 {
-  "movi" :
+  "movie" :
 [{"id":1,"name":"Best Men","genre":"Action|Comedy|Crime|Drama"},
 {"id":2,"name":"Tango Lesson, The","genre":"Romance"},
 {"id":3,"name":"What About Bob?","genre":"Comedy"},
